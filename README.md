@@ -198,3 +198,15 @@ Similarly, this evaluates performance on COCO-related data. Please make sure:
 
 - Answers, semantic localization results, and uncertainty results under `playground/Coco_Caption/` have been generated.
 - The input paths in `eval_coco.sh` match your local files.
+  ## Citation
+
+Please kindly cite our report if they are helpful for your research.
+
+```bibtex
+@article{Sarah,
+  title={Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method},
+  author={Fang Yue, Zhang Yang, Liu Yawen, Yu Yetian},
+  url={https://github.com/YUEFANG0211/Sarah},
+  year={2025}
+}
+
