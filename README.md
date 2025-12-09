@@ -3,7 +3,7 @@
 This repository contains the official implementation of the paper **“Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method”**.  
 We provide a complete pipeline from answer generation of LVLMs to semantic information localization, uncertainty-based hallucination detection, and final evaluation on multiple benchmarks.
 
-<video src="./hal-detector/assets/Sarah_demo.mp4" controls width="600"></video>
+👉 **[Click here for Sarah's demo](https://yuefang0211.github.io/publication/sarah)**
 
 Contents:
 - **Installation**: Environment setup
