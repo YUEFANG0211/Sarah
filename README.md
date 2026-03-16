@@ -1,6 +1,6 @@
 ## Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method
 
-This repository contains the official implementation of the paper **“Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method”**.  **[IMAVIS2026](https://www.sciencedirect.com/science/article/pii/S0262885626000442)**
+This repository contains the official implementation of the paper **[“Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method (IMAVIS2026)”](https://www.sciencedirect.com/science/article/pii/S0262885626000442)**.
 We provide a complete pipeline from answer generation of LVLMs to semantic information localization, uncertainty-based hallucination detection, and final evaluation on multiple benchmarks.
 
 👉 **[Click here for Sarah's demo](https://yuefang0211.github.io/publication/sarah)**
